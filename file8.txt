@@ -1,0 +1,2 @@
+devops 1st tool is git 
+devops 2nd tool is jenkins
