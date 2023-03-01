@@ -13,5 +13,10 @@
 adding line 13
 adding line 0
 adding line 2
+<<<<<<< Updated upstream
 aws cloud 
 azure cloud
+=======
+gcp cloud 
+cloud computing
+>>>>>>> Stashed changes
