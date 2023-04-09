@@ -9,7 +9,7 @@ touch dockerfile
 #copy the war file and keep inside of dockerimg
 cp /var/lib/jenkins/workspace/abc-package-01/target/addressbook.war .
 #get into the dockerfile
-echo"
+echo "
 #choose container OS
 FROM ubuntu:latest
 #Define the author name
